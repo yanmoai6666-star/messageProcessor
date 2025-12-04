@@ -27,6 +27,7 @@
 | UnmarshalJSON | models/user.go |
 | ToJSON | models/user.go |
 | FromJSON | models/user.go |
+| JSONResponse | message_processor/api/handlers.go |
 
 ## 统计
-- 找到函数总数: 20个
+- 找到函数总数: 21个
